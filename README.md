@@ -145,5 +145,4 @@ if __name__ == "__main__":
 - Why am I getting invalid session id?
 
   If you are creating custom session id before client initialization then make sure you prefix it with `mcp-session-`. For example: `3ef38b37-323a-4bbd-acbb-3fe02f97783f` is not valid and `mcp-session-3ef38b37-323a-4bbd-acbb-3fe02f97783f` is valid
-#   f i - m c p - d e v  
- 
+#
